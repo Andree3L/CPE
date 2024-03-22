@@ -1,0 +1,89 @@
+1 - Categorize cada um dos seguintes itens como hardware ou software:
+1. CPU - hardware
+2. Disco rígido - hardware
+3. Programa Word - software
+4. Instagram - software
+5. Teclado - hardware
+
+2 - O que é software e qual sua importância?
+São os programas do computador. Eles podem resolver um problema ou realizar tarefas específicas, como gerenciar estoques, jogos, redes socias, entre outros.
+
+3 - Defina com suas próprias palavras o que é algoritmo.
+Uma sequencia de ordens/comandos que são dadas ao computador interpretar.
+
+4 - Cite exemplos de software usados na medicina, ciência no
+entretenimento que você conhece.
+Os programas de raio-x/gerenciamento dos pacientes, ChatGPT e Instagram/netflix
+
+5 - Quais softwares deixa sua vida mais fácil? Quais deixam sua vida
+mais complicada?
+Google docs, Canva, powerpoint. Os sites .gov porque eu tive alguns problemas 
+
+6 - Considere uma atividade de sua rotina diária. Como a computação
+está direta ou indiretamente envolvida?
+Praticamente tudo que eu faço envolve computação desde olhar meus horarios da faculdade até programar por exemplo
+
+7 - A partir de sua experiência pessoal, descreva uma atividade que não
+seria possível sem computadores.
+Programação, jogar, assistir filmes, entre outros
+
+8 - Faça uma Lista programas que você utiliza.
+Instagram, google, discord, Counter-Strike 2
+
+9 - Faça uma lista com dez atividades que não utilizam computadores de
+nenhuma maneira.
+Cortar cabelo, caminhar, futebol, lavar louça, escrever, tocar um instrumento, artes marciais, capinar terreno, correr, escovar os dentes
+
+10 - Você acha que a inteligência artificial vai acabar com empregos na
+área da computação? Justifique.
+Não, porque vão gerar empregos que precisem de mais qualificação
+
+11 - Descreva a capacidade de seu computador em termos de
+processamento, memória e armazenamento.
+processamento: é o cerebro do computador, serve pra processar tarefas e programas
+memória: é onde fica armazenado informações de forma temporaria
+armazenamento: é onde fica armazenado informações de forma "permanente", pois podemos gerenciar as informações como deleta-las eventualmente
+
+12 - Descreva um algoritmo para resolver um cubo mágico.
+1- descrever um cubo magico como os lados das cores 
+2- em quantas partes eles são divididos(os 9 cubinhos de um lado)
+3- descrever os movimentos podem que podem ser feitos
+
+13 - Qual a diferença entre bit e byte?
+bit: recebe um valor de 0 ou 1
+byte: conjunto de 8 byte
+
+14 - Como representar números reais usando sistema binário?
+dividindo o numero por 2 e pegandos os restos gerados 1 ou 0, e invertendo a ordem, exemplo:
+10/2 = 5 resto 0
+5/2 = 2 resto 1
+2/2 = 2 resto 0
+1/2 = 0 resto 1
+
+pegando de baixo para cima 1010. 1010 = 10 em binário
+
+15 - Descreva os passos para converter o número decimal 150 para sua
+representação em binário.
+150 / 2 = 75 resto 0
+75 / 2 = 37 resto 1
+37 / 2 = 18 resto 1
+18 / 2 = 9 resto 0
+9 / 2 = 4 resto 1
+4 / 2 = 2 resto 0
+2 / 2 = 1 resto 0
+1 / 2 = 0 resto 1 
+
+pegando os restos de baixo para cima da 10010110 = 150 em binário
+
+16 - Descreva o papel do scrum master, dono do produto e do time de
+desenvolvimento.
+scrum master: garantir transparencia do projeto entre todas as partes
+dono do produto: é quem tem propridade pra tomar decisões sobre o produto a ser desenvolvido
+time de desenvolvimento: fazer o desenvolvimento do produto
+
+17 - Descreva os comandos para mover, copiar, e remover arquivos
+usando linha de comando no sistema operacional que você utiliza.
+No cmd do Windows os comandos são respectivamente move, copy e del
+
+18 - Qual o padrão IEEE para redes WiFi? E para o Bluetooth?
+802.11 e 802.15
