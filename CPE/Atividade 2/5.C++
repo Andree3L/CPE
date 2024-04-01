@@ -6,9 +6,9 @@ int main() {
     float largura, comprimento, area;
     
     // Entrada dos valores
-    cout << "qual a largura em metro? ";
+    cout << "Qual a largura em metro? ";
     cin >> largura;
-    cout << "qual o comprimento em metros? ";
+    cout << "Qual o comprimento em metros? ";
     cin >> comprimento;
 
     //calculo da area
