@@ -21,7 +21,9 @@ int main() {
         valor = 252.5 + ((Km - 150) * 1.50);
   
     }
-    cout << "o valor pago sera de: " << valor;
+    cout << "O valor pago sera de: " << valor << "\n";
+    
+    cout << "O valor medio por km sera de: " << valor/Km << endl;
 
     return 0;
 }
