@@ -6,7 +6,7 @@ int main() {
     float Km, valor;
     
     // Entrada dos Km
-    cout << "quantos km voce andou?? \n";
+    cout << "Quantos km voce andou?? \n";
     cin >> Km;
 
      if (Km < 51) {
