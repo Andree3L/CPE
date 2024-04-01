@@ -13,7 +13,7 @@ int main() {
     cout << "Seta" << endl;
     cout << "    *     \n" << "  * * *   \n" << "* * * * * \n" << "    *     \n" << "    *     \n" << "    *     \n \n" << endl;
 
-    cout << "Quadrado" << endl;
+    cout << "Losangolo" << endl;
     cout << "    *     \n" << "  *   *   \n" << "*       * \n" << "  *   *   \n" << "    *     \n \n" << endl;
 
     return 0;
